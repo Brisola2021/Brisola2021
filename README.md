@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Paulo Brisola 👋
 
-- 🔭 Estou trabalhando como Desenvolvedor FullStack e utilizando a linguagem Java como Back-End. Sou super aberto ao aprendizado de novas linguagens porque é uma paixão que tenho há algum tempo.
+- 🔭 Estou em busca de uma atuação como Desenvolvedor FullStack e utilizando a linguagem Java como Back-End. Sou super aberto ao aprendizado de novas linguagens porque é uma paixão que tenho há algum tempo.
 
 <div align="center">
   <a href="https://github.com/Brisola2021">
